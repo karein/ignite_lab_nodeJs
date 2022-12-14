@@ -1,5 +1,8 @@
 # Aplicação
   Enviar notificações push
+
+  **Infra**  
+  - camada externa da aplicação: conexão com o banco e outras apis, rotas. Tudo que dá acesso ao mundo exterior
 # Stack
 
 
