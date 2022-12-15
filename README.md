@@ -33,3 +33,10 @@
   Um banco de dados para cada aplicação.
   cada banco salva somente as informações nessesárias para o serviço em questão.
 
+  ## Mappers
+  desaclopa código para ser reaproveitado, e esão associados com cada camada
+
+  ## factory pattern
+   função que retorna um objeto.  
+   usada para abstrair criação de objetos que são repetidos
+
