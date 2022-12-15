@@ -16,6 +16,7 @@ model Notification {
   content     String
   category    String
   readAt      DateTime? // ? => pode ser nulable
+  canceledAt  DateTime?
   createdAt   DateTime  @default(now())
 
   @@index([recipientId]) //Referência para uma informação que está em outro serviço
