@@ -40,3 +40,13 @@
    função que retorna um objeto.  
    usada para abstrair criação de objetos que são repetidos
 
+   ## Kafka
+  ### Producers
+  Envia a mensagem 
+  ### Cosumers
+  Recebe a mensagem.  
+  Cada consumers buscam as novas mensagens.  
+  ### Topics
+  funciona como um banco de dados.  
+  Cada topico é uam "tabela"
+
